@@ -1,0 +1,14 @@
+package com.healthycoderapp;
+
+
+import org.junit.jupiter.api.Test;
+
+class BMICalculatorTest {
+
+	@Test
+	void test() {
+	
+		BMICalculator.isDietRecommended(24.0, 2.5);
+	}
+
+}

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="DietPlannerTest" project="HealthyCoderApp" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="com.healthycoderapp.DietPlannerTest" time="0.046" displayname="DietPlannerTest" uniqueid="[engine:junit-jupiter]/[class:com.healthycoderapp.DietPlannerTest]">
+    <testcase name="should_ReturnCorrectDietPlan_When_CorrectCoder" classname="com.healthycoderapp.DietPlannerTest" time="0.046" displayname="should_ReturnCorrectDietPlan_When_CorrectCoder()" uniqueid="[engine:junit-jupiter]/[class:com.healthycoderapp.DietPlannerTest]/[method:should_ReturnCorrectDietPlan_When_CorrectCoder()]"/>
+  </testsuite>
+</testrun>
